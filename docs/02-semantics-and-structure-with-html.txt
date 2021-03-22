@@ -1,0 +1,7 @@
+Total (35-50 hours)
+-----------------------------------------------------
+1. Introduction to HTML (15–20 hour read/exercises)
+2. Multimedia and embedding (15–20 hour read/exercises)
+3. HTML tables (5–10 hour read/exercises)
+-----------------------------------------------------
+
