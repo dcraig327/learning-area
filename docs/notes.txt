@@ -60,3 +60,5 @@ Schedule Optimizations:
 * Since much of this content is known. If I stick to the schedule, I'll finish my planned dates faster than expected. Exciting as I can then get working on projects and more JS. I'm not in love with CSS yet and I hope the course changes that.
 
 
+
+It stated I might be the type of person to want to jump in and code via codeacademy. Yes I am that person. I could try a course, but from my experience, these interactive courses only tell me what to do, not why to do it. Plus it gets repetitive/boring doing what I already know, they're usually not bug-free and I can't use my natural coding environment to complete them. Plus there's some % completion that I feel must be 100% as some ignorant employer might have to see that number equal 100% or else skip my resume. I feel I've surpassed these interactive courses and need to create my own projects and need someone who's thought long & hard on a curriculum for me to get up and running really fast and teaching me how to fish. I still feel challenges like hackerrank useful, but interactive automated tutorials are not.
