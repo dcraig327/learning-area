@@ -16,3 +16,47 @@ Couple reference materials:
 
 Create a goal. Plan that goal. Schedule that goal.
 
+I will become a professional webdev in 9 months. I've studied a bit here and there and will likely get through parts of this course faster than intended, but will still plan for going through the entire course.
+
+In 6 months I will have learned the basics of what is needed then over the next 3 months I will work on projects to create my resume. I'll likely not stop working on projects other than to study or research. During my testing and time tracked using wakatime, I really enjoy coding. Even though I didn't know what I was doing, I kept hacking away and finding solutions to my problems until achieving the goal.
+
+I got the 6 months number using a spreadsheet of the time to complete the course, estimating a very reasonable 3.5 hours per day and that means MDN will be completed in 4.5 months, leaving 1.5 months @ 3.5 hrs/day = 157.5 hrs as an elective. Likely will be spent learning JS frameworks, or possibly advanced JS, depending on what is taught in the course. My goal is first and foremost to become an expert in JS before moving onto frameworks, but if I can learn one framework, get a job, then get back to JS - that'll add another 40 hrs/wk to my education!
+
+I do want to create games using just HTML & CSS and then actual games using HTML, CSS & JS. I'm just really worried about creating a game to be played in a browser, which might be played on an underpowered toaster. If there's some easy ways to profile the game, employ webasm to eliminate the bottlenecks, I'm sold.
+
+Here is the schedule:
+Workday: 
+* 9hrs work
+* 8hrs sleep
+* 1hr cook/eat
+* 6hrs freetime
+  * 4hrs play/workout
+  * 2hrs school
+ 
+ Weekend:
+ * 8hrs sleep
+ * 1hr cook/eat
+ * 7.5hrs school
+ * 7.5hrs play/workout
+ 
+This schedule will work for me. I placed 1 part school to 2 parts play during weekdays and 1 part school to 1 part play on weekends. I think this 1:2 ratio on weekdays is because work is so boring that I need more time away, and reading MDN isn't going to cut it. The 1:1 ratio on weekends is more my thing, my only addition would be instead of just reading a textbook would instead to do other things to learn to keep it fun. I'm sure I'll find optimizations in the schedule.
+
+2hrs * 5days + 7.5hrs * 2days = 24.5hrs/wk
+24.5hrs/wk / 7days = 3.5hrs average
+
+Planned on a calendar:
+* HTML by Fri 4/2
+* CSS by Sun 5/2
+* JS by Tue 6/15
+* Forms by Mon 6/28
+* Accessibility by Sat 7/17
+* Tooling by Sat 8/7
+
+
+Schedule Optimizations:
+* Youtube is my #1 time waster. But not any more. It is now showing 5 ads on an 11.5min video which used to only have 1 ad a month ago. I use different yt accounts so I get different vids recommomended. I own yt premium for one account. The yt recommendation engine has replaced channel surfing, I could talk a lot about that. Anyway, I signed up for youtube family account and now have multiple accounts that I can use to train the machine of what it should find for me. I find that my old account would have tons of vids that are designed to keep me watching (the #1 priority of the yt algorithm) and as such I get tons of 'time wasting' videos. Now I plan on creating a productive time wasting yt account. Eventually deleting my old 'time wasting' account as I make the transition. I've one account that only shows scenic vids designed to be played in the background - pretty cool to have that on my third monitor and stare at when pondering something I've learned.
+* Sleep is about 8 hours because of my workouts, not much I can do there.
+* I will spend more time learning if I find fun and different ways to learn. Much of this content is known. I'm sure I'll have some ideas soon.
+* Since much of this content is known. If I stick to the schedule, I'll finish my planned dates faster than expected. Exciting as I can then get working on projects and more JS. I'm not in love with CSS yet and I hope the course changes that.
+
+
