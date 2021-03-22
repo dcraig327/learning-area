@@ -63,3 +63,19 @@ Schedule Optimizations:
 
 It stated I might be the type of person to want to jump in and code via codeacademy. Yes I am that person. I could try a course, but from my experience, these interactive courses only tell me what to do, not why to do it. Plus it gets repetitive/boring doing what I already know, they're usually not bug-free and I can't use my natural coding environment to complete them. Plus there's some % completion that I feel must be 100% as some ignorant employer might have to see that number equal 100% or else skip my resume. I feel I've surpassed these interactive courses and need to create my own projects and need someone who's thought long & hard on a curriculum for me to get up and running really fast and teaching me how to fish. I still feel challenges like hackerrank useful, but interactive automated tutorials are not.
 
+
+There's a yt channel called Socratica with very well produced study tips. I need to seek out more like it. Hopefully the machine knows I'm looking. There's some great tips in the MDN document. Staying motivated. I'll likely need help getting through the boring bits that I already know. 
+
+* Try to make your work environment as productive as possible
+* Take regular breaks
+* Eat, exercise, and sleep
+* Give yourself rewards - You should try to schedule fun things to do after each learning session, which you'll only have when the learning is over and complete. If you are really into gaming, for example, there is something quite motivating about saying "no gaming tonight unless I get through my 5 hours of learning". Now all you need is willpower. Good luck!
+* Co-learning and demoing - It is really useful and motivating to have someone to discuss ideas with and ask for help, and you should also take time to demo your work. Those shouts of appreciation will spur you on.
+
+
+I'm still learning how to better the first 3 bullets above, but the last 2 are great. I've already been employing the no gaming until school is done rule, but it could be used for anything that I feel I want to do. The trick is to not let the student feel they are being punished or prevented from doing what they want to do, but instead what they want is a reward. The carrot vs the stick, the carrot is the most effective way to teach someone who doesn't want to learn.
+
+I should get an eye tracker to determine how much time I'm spending looking at my third monitor. I've found that using it I can avoid breaks entirely other than what is needed for body. It's something about watching a video of linear movement that makes me belive I'm traveling, like I'm somewhere else. It's more than just taking break, it's almost like the feeling after reading a ficiton book.
+
+The co-learning and demoing, hell it would be great to just talk to anyone that's a webdev. Really it wouldn't even be me talking, it would be me finding out what they find most interesting or are most passionate about their job and have them talk about that. Their stories would be the biggest source of motivation I could imagine.
+
