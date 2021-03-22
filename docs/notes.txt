@@ -79,3 +79,39 @@ I should get an eye tracker to determine how much time I'm spending looking at m
 
 The co-learning and demoing, hell it would be great to just talk to anyone that's a webdev. Really it wouldn't even be me talking, it would be me finding out what they find most interesting or are most passionate about their job and have them talk about that. Their stories would be the biggest source of motivation I could imagine.
 
+
+Breaking down building a 2-column site:
+* create html structure
+* work out basic site type
+* create high-level layout - header, horiz nav menu, main content area with main and side columns, footer
+* create horiz nav menu
+ * make list of menu items that sit horiz on a line
+ * remove unndeeded defaults, like list spacing and bullets
+ * style hover/focus/active states
+ * make menu items equally spaced along a line
+ * give the menu items enough vertical spacing
+ * make sure text is centered inside each menu item
+ * etc.
+* etc.
+
+
+Wow. I've spent a lot of hours looking at, writng and reading CSS. I finally see flexbox. 
+
+remove bullets in a ul
+ul {
+ list-style-type: none;  /* this removes the default bullets */
+ padding: 0;
+}
+
+
+
+Practice, practice, practice:
+The more you code the better you'll be at coding. I'd like learn enough to be confident that I could build something, then start creating and not stop.
+
+
+
+It suggests meetup.com - or even volunteering at one of the full-fledged web conferences to avoid entry fees.
+
+
+https://www.coursera.org/learn/learning-how-to-learn
+
