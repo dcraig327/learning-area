@@ -5,3 +5,14 @@ Different learning methods
 * focused - deep concentration
 * diffuse - high-level wide-area thinking. Let your mind wander and make random connections between different things
 
+You can't engage in both ways of thinking at once. Both are needed for study.
+Take frequent breaks when studying in front of a computer.
+
+Couple tutorials:
+* Learn how to create a video player
+* Learn the CSS box model
+Couple reference materials:
+* What is the syntax of the CSS background property?
+
+Create a goal. Plan that goal. Schedule that goal.
+
