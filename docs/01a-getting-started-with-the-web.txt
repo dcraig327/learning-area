@@ -1,0 +1,25 @@
+USE DASHES IN FILE NAMES INSTEAD OF UNDERSCORES OR SPACES!!
+
+structure:
+
+index.html
+images directory img
+styles directory css
+scripts directory js
+
+
+HTML is a markup language
+it's a series of elements
+
+element can have:
+opening/closing tag
+attributes
+content
+
+elements can be nested
+
+elements can be empty, or have no closing tags & content
+
+
+
+<link href="styles/style.css" rel="stylesheet">

@@ -22,3 +22,22 @@ Marking up a letter
 Structuring a page of content
 
 
+-------------------------------------------------------
+seperate file names with dashes for google
+
+
+
+HTML is a markup language
+it's a series of elements
+
+element can have:
+opening/closing tag
+attributes
+content
+
+elements can be nested
+
+elements can be empty, or have no closing tags & content
+
+
+
